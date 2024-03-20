@@ -56,3 +56,4 @@ Stock Movement Prediction
 # Additional Notes
 The sentiment analysis and prediction are for educational purposes and should not be used as financial advice.
 Stock market predictions are inherently uncertain, and this model is a basic example. Real-world trading decisions should consider a wide range of factors.
+![example](https://github.com/SrikarRP/Stock-Pred-V2/assets/152237612/bd092aea-f8e4-4f5b-b928-fd052a3c1979)
